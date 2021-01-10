@@ -24,7 +24,7 @@ PARAGRAPH 1
 
 SMALLER SUB HEAD
 
-`History`
+`Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.`
 
 PARAGRAPH 2
 
